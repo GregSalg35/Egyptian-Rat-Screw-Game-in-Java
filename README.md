@@ -5,7 +5,7 @@ A Java program that simulates a full game of Egyptian Rat Screw. There's no user
 ## How to run
 
 ```
-javac Card.java Driver.java Dealer.java Deck.java Game.java Player.java
+javac *.java
 java Driver
 ```
 
@@ -33,6 +33,3 @@ java Driver
 Game game = new Game(4);
 ```
 
-## Made for
-
-CPSC 231 at Chapman University
